@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DNC.Console", "DNC.Console\DNC.Console.csproj", "{07F06D41-EA9B-445A-A670-5EF6E45CD01B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DNC.WebApp", "DNC.WebApp\DNC.WebApp.csproj", "{FD8DBDE1-E0E6-402D-8390-E8E6CFD9AC7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DNC.API", "DNC.API\DNC.API.csproj", "{AB185A27-C93B-4B36-9E79-0133F99EA596}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07F06D41-EA9B-445A-A670-5EF6E45CD01B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07F06D41-EA9B-445A-A670-5EF6E45CD01B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07F06D41-EA9B-445A-A670-5EF6E45CD01B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07F06D41-EA9B-445A-A670-5EF6E45CD01B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD8DBDE1-E0E6-402D-8390-E8E6CFD9AC7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD8DBDE1-E0E6-402D-8390-E8E6CFD9AC7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD8DBDE1-E0E6-402D-8390-E8E6CFD9AC7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD8DBDE1-E0E6-402D-8390-E8E6CFD9AC7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB185A27-C93B-4B36-9E79-0133F99EA596}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB185A27-C93B-4B36-9E79-0133F99EA596}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB185A27-C93B-4B36-9E79-0133F99EA596}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB185A27-C93B-4B36-9E79-0133F99EA596}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7184141C-6408-4BCA-B804-F6D29F9893D0}
+	EndGlobalSection
+EndGlobal
